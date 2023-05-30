@@ -6,7 +6,7 @@
 
 ### About Me!
 
-- 💼 I’m currently student at Politeknik Manufaktur Astra.
+- 💼 I’m currently working as System Analyst at Astra Otoparts as an AGIT employee.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [alvinamartya1@gmail.com](mailto:alvinamartya1@gmail.com).
