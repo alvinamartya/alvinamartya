@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Alvin Amartya </h2>
-<h3>Data Enthusiast | Product & Technology</h3>
+<h3>Data Enthusiast | Software Engineer</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@alvinamartya_id-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvinamartya_id)](https://twitter.com/alvinamartya_id) [![Linkedin Badge](https://img.shields.io/badge/-alvinamartya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvinamartya/)](https://www.linkedin.com/in/alvinamartya/) [![Medium Badge](https://img.shields.io/badge/-@alvinamartya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alvinamartya)](https://medium.com/@alvinamartya)
 [![Gmail Badge](https://img.shields.io/badge/-alvinamartya1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvinamartya1@gmail.com)](mailto:alvinamartya1@gmail.com)
