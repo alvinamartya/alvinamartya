@@ -6,15 +6,10 @@
 
 ### About Me!
 
-- 💼 I’m currently working as System Analyst at Astra Otoparts as an AGIT employee.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
+- 💼 I’m currently working as Mobile Engineer at Astra Otoparts as an AGIT employee.
+- 🌱 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [alvinamartya1@gmail.com](mailto:alvinamartya1@gmail.com).
-
-### Primary Stack :rocket:
-|<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" width=60> | <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width=60> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width=60> | <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" width=60> | <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width=60> | <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width=40> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLTxw2beQD1IF8lRC2Vlf7E1QKH6opErAGKA&s" width=60> | <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width=60> | <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=60>
 
 ### Overview
 ![Alvin Amartya's github stats](https://github-readme-stats.vercel.app/api?username=alvinamartya&show_icons=true)
