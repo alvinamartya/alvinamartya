@@ -12,7 +12,7 @@
 
 #### About Me!
 
-- 💼 I’m currently working as Mobile Engineer at Astra Otoparts as an AGIT employee.
+- 💼 I’m currently working as Fullstack Developer at Astra Otoparts as an AGIT employee.
 - 🌱 I’m currently exploring Python with a big interest in Machine Learning and Data Visualization. 
 - 💬 Ask me about anything, I love to answer!
 
